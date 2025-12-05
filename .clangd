@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -I/home/CIN/egb2/git/fuzzylite/fuzzylite
+    - -I/home/CIN/egb2/git/fuzzylite
+
+
+
